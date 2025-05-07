@@ -11,9 +11,6 @@ This project aims to develop an intelligent, autonomous transport system within 
 
 ## Visit our Web
 
-
 ## Download the App
 
 ## Development Team
-
-
